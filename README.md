@@ -76,7 +76,7 @@ MenteAI utiliza algoritmos avançados de processamento de linguagem natural e re
 ## 🚀 Tecnologias Utilizadas
 
 <div align="center">
-  <img src="[[https://via.placeholder.com/80](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)" alt="Python" width="80px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="80px">
   <img src="https://via.placeholder.com/80" alt="TensorFlow" width="80px">
   <img src="https://via.placeholder.com/80" alt="React Native" width="80px">
   <img src="https://via.placeholder.com/80" alt="MongoDB" width="80px">

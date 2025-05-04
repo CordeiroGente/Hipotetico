@@ -5,8 +5,7 @@
   
   ### Assistência Psicológica Acessível através de Inteligência Artificial
   
-  [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/seuusuario/menteai)
-  [![Licença](https://img.shields.io/badge/licença-MIT-blue)](LICENSE.md)
+  [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]
   [![Versão](https://img.shields.io/badge/versão-1.0.0-brightgreen)](https://github.com/seuusuario/menteai/releases)
 </div>
 
@@ -76,7 +75,7 @@ MenteAI utiliza algoritmos avançados de processamento de linguagem natural e re
 ## 🚀 Tecnologias Utilizadas
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="20px">
   <img src="https://via.placeholder.com/80" alt="TensorFlow" width="80px">
   <img src="https://via.placeholder.com/80" alt="React Native" width="80px">
   <img src="https://via.placeholder.com/80" alt="MongoDB" width="80px">

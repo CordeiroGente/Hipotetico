@@ -30,7 +30,7 @@
 
 ## Sobre o Projeto
 
-PisyIA é uma plataforma inovadora que utiliza inteligência artificial para fornecer suporte psicológico inicial acessível a pessoas que não podem arcar com os custos de terapia tradicional. Nossa missão é democratizar o acesso à saúde mental e oferecer uma ponte entre o autoconhecimento e a ajuda profissional.
+PisyIA é um projeto inovador que promete utilizar inteligência artificial para fornecer suporte psicológico inicial a pessoas que não podem arcar com os custos de terapia convencional. Nossa missão é melhorar o estado da saúde mental do "século da depressão" ao oferecer uma ponte entre o autoconhecimento e a ajuda profissional.
 
 ---
 

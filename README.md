@@ -1,7 +1,7 @@
 # PisyIA 🧠
 
 <div align="center">
-  <img src="https://github.com/CordeiroGente/Imagens/blob/main/PisyIA%20Full.png?raw=true" alt="Logo PisyIA" width="300px">
+  <img src="https://github.com/CordeiroGente/Imagens/blob/main/PisyIA%20Full.png?raw=true" alt="Logo PisyIA" width="600px">
   
   ### Assistência Psicológica Acessível através de Inteligência Artificial
   

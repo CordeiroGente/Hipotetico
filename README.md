@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/CordeiroGente/Imagens/blob/main/PisyIA%20Full.png?raw=true" alt="Logo PisyIA" width="600px">
   
-  ### Assistência Psicológica Acessível através de Inteligência Artificial
+  ### Entregando Psicologia no seu Celular
   
   ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
   ![Versão](https://img.shields.io/badge/versão-0.0.1-brightgreen)

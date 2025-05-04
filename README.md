@@ -1,7 +1,7 @@
-# MenteAI 🧠
+# PisyIA 🧠
 
 <div align="center">
-  <img src="https://via.placeholder.com/300" alt="Logo MenteAI" width="300px">
+  <img src="https://via.placeholder.com/300" alt="Logo PisyIA" width="300px">
   
   ### Assistência Psicológica Acessível através de Inteligência Artificial
   
@@ -30,7 +30,7 @@
 
 ## Sobre o Projeto
 
-MenteAI é uma plataforma inovadora que utiliza inteligência artificial para fornecer suporte psicológico inicial acessível a pessoas que não podem arcar com os custos de terapia tradicional. Nossa missão é democratizar o acesso à saúde mental e oferecer uma ponte entre o autoconhecimento e a ajuda profissional.
+PisyIA é uma plataforma inovadora que utiliza inteligência artificial para fornecer suporte psicológico inicial acessível a pessoas que não podem arcar com os custos de terapia tradicional. Nossa missão é democratizar o acesso à saúde mental e oferecer uma ponte entre o autoconhecimento e a ajuda profissional.
 
 ---
 
@@ -48,7 +48,7 @@ MenteAI é uma plataforma inovadora que utiliza inteligência artificial para fo
 
 ## 🎯 Nossa Solução
 
-MenteAI utiliza algoritmos avançados de processamento de linguagem natural e reconhecimento de padrões emocionais para:
+PisyIA utiliza algoritmos avançados de processamento de linguagem natural e reconhecimento de padrões emocionais para:
 
 1. **Avaliar**: Realizar uma análise inicial do estado emocional do usuário
 2. **Orientar**: Oferecer exercícios e técnicas baseadas em evidências científicas
@@ -132,7 +132,7 @@ Em nossos testes iniciais com 500 usuários:
 
 ## ⚠️ Importante
 
-> **MenteAI não substitui o tratamento psicológico ou psiquiátrico profissional.** 
+> **PisyIA não substitui o tratamento psicológico ou psiquiátrico profissional.** 
 > 
 > Nosso sistema é uma ferramenta complementar para aumentar o acesso inicial ao suporte de saúde mental e deve ser usado em conjunto com outros recursos quando necessário.
 
@@ -171,7 +171,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE.md) - veja o arquivo L
 ## 📞 Contato
 
 <div align="center">
-  <a href="mailto:contato@menteai.com.br">
+  <a href="mailto:contato@PisyIA.com.br">
     <img src="https://via.placeholder.com/40" width="40px;" alt="Email">
   </a>
   &nbsp;&nbsp;
@@ -185,9 +185,9 @@ Este projeto está licenciado sob a [MIT License](LICENSE.md) - veja o arquivo L
 </div>
 
 Para mais informações ou parcerias:
-- Email: contato@menteai.com.br
-- Website: [www.menteai.com.br](https://exemplo.com)
-- Instagram: [@menteai](https://exemplo.com)
+- Email: contato@PisyIA.com.br
+- Website: [www.PisyIA.com.br](https://exemplo.com)
+- Instagram: [@PisyIA](https://exemplo.com)
 
 ---
 

@@ -5,8 +5,8 @@
   
   ### Assistência Psicológica Acessível através de Inteligência Artificial
   
-  [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]
-  [![Versão](https://img.shields.io/badge/versão-1.0.0-brightgreen)](https://github.com/seuusuario/menteai/releases)
+  ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+  ![Versão](https://img.shields.io/badge/versão-0.0.1-brightgreen)
 </div>
 
 ---

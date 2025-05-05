@@ -16,21 +16,20 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Problema](#-problema)
 - [Nossa Solução](#-nossa-solução)
-- [Funcionalidades](#️-principais-funcionalidades)
+- [Funcionalidades](#-principais-funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Resultados Preliminares](#-resultados-preliminares)
 - [Como Usar](#-como-usar)
-- [Aviso Importante](#️-importante)
+- [Aviso Importante](#-importante)
 - [Próximos Passos](#-próximos-passos)
 - [Equipe](#-equipe)
-- [Licença](#-licença)
 - [Contato](#-contato)
 
 ---
 
 ## Sobre o Projeto
 
-PisyIA é um projeto inovador que promete utilizar inteligência artificial para fornecer suporte psicológico inicial a pessoas que não podem arcar com os custos de terapia convencional. Nossa missão é melhorar o estado da saúde mental do "século da depressão" ao oferecer uma ponte entre o autoconhecimento e a ajuda profissional.
+PisyIA é um projeto inovador que promete utilizar inteligência artificial para fornecer suporte psicológico a pessoas que não podem arcar com os custos de terapia convencional. Nossa missão é melhorar o estado da saúde mental do "século da depressão" ao oferecer uma ponte entre o autoconhecimento e a ajuda profissional.
 
 ---
 
@@ -51,12 +50,9 @@ PisyIA é um projeto inovador que promete utilizar inteligência artificial para
 PisyIA utiliza algoritmos avançados de processamento de linguagem natural e reconhecimento de padrões emocionais para:
 
 1. **Avaliar**: Realizar uma análise inicial do estado emocional do usuário
-2. **Orientar**: Oferecer exercícios e técnicas baseadas em evidências científicas
-3. **Encaminhar**: Direcionar para recursos gratuitos ou de baixo custo quando necessário
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Fluxograma da Solução" width="600px">
-</div>
+2. **Acompanhar**: De acordo com a conversa entre usuário e Bot, a IA irá agir de acordo com padrões do problema da pessoa
+3. **Orientar**: Oferecer exercícios e técnicas baseadas em evidências científicas
+4. **Encaminhar**: Direcionar para recursos gratuitos ou de baixo custo quando necessário
 
 ---
 
@@ -81,13 +77,7 @@ PisyIA utiliza algoritmos avançados de processamento de linguagem natural e rec
 ```
 ├── Backend
 │   ├── Python
-│   ├── TensorFlow/PyTorch
-│   ├── Processamento de Linguagem Natural (NLP)
-│   ├── Análise de Sentimentos
-│   └── MongoDB
 └── Frontend
-    ├── React Native (aplicativo móvel)
-    └── API RESTful
 ```
 
 ---
@@ -115,15 +105,12 @@ Em nossos testes iniciais com 500 usuários:
 
 ## 📱 Como Usar
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Tutorial de Uso" width="600px">
-</div>
-
-1. Faça o download do aplicativo na [Google Play](https://exemplo.com) ou [App Store](https://exemplo.com)
+1. Faça o download do aplicativo na [Google Play](ex) ou [App Store](ex)
 2. Crie uma conta com e-mail ou redes sociais
 3. Complete a avaliação inicial de 5 minutos
 4. Receba um plano personalizado de suporte psicológico
 5. Utilize o chatbot e os exercícios recomendados diariamente
+6. Aproveite da evolução da AI de acordo com suas falas
 
 ---
 
@@ -131,16 +118,17 @@ Em nossos testes iniciais com 500 usuários:
 
 > **PisyIA não substitui o tratamento psicológico ou psiquiátrico profissional.** 
 > 
-> Nosso sistema é uma ferramenta complementar para aumentar o acesso inicial ao suporte de saúde mental e deve ser usado em conjunto com outros recursos quando necessário.
+> Nosso sistema é uma ferramenta complementar para incentivar o acesso ao suporte de saúde mental e deve ser usado em conjunto com outros recursos quando necessário.
 
 ---
 
 ## 🔮 Próximos Passos
 
-- [ ] Implementação de reconhecimento de voz para análise de padrões vocais
+- [ ] Implementação de reconhecimento de voz para análise de tons vocais
 - [ ] Expansão para mais idiomas além do português
 - [ ] Desenvolvimento de parcerias com universidades para validação científica
 - [ ] Criação de uma rede de profissionais voluntários para atendimento a casos prioritários
+- [ ] Expandir para um ambiente virtual (VR) onde o usuário poderá ter a sensação de um consultório real
 
 ---
 
@@ -149,45 +137,20 @@ Em nossos testes iniciais com 500 usuários:
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://via.placeholder.com/100" width="100px;" alt="Foto do Desenvolvedor"><br /><b>[Seu Nome]</b><br /><i>Desenvolvedor(a) Principal</i></td>
-      <td align="center"><img src="https://via.placeholder.com/100" width="100px;" alt="Foto do Cientista de Dados"><br /><b>[Nome Colega 1]</b><br /><i>Cientista de Dados</i></td>
-      <td align="center"><img src="https://via.placeholder.com/100" width="100px;" alt="Foto do Designer"><br /><b>[Nome Colega 2]</b><br /><i>UX/UI Designer</i></td>
-      <td align="center"><img src="https://via.placeholder.com/100" width="100px;" alt="Foto do Psicólogo"><br /><b>[Nome Colega 3]</b><br /><i>Psicólogo(a) Consultor(a)</i></td>
+      <td align="center"><img src="https://github.com/CordeiroGente/Imagens/blob/main/Bust%20icon.png?raw=true" width="100px;" alt="Foto do Desenvolvedor"><br /><b>[Pedro H.P. Cordeiro]</b><br /><i>Desenvolvedor(a) Principal</i></td>
+      <td align="center"><img src="https://github.com/CordeiroGente/Imagens/blob/main/Bust%20icon.png?raw=true" width="100px;" alt="Foto do Cientista de Dados"><br /><b>[Cordeiro H.P. Perrenchelle]</b><br /><i>Cientista de Dados</i></td>
+      <td align="center"><img src="https://github.com/CordeiroGente/Imagens/blob/main/Bust%20icon.png?raw=true" width="100px;" alt="Foto do Designer"><br /><b>[Henrique Pedro P.C.]</b><br /><i>UX/UI Designer</i></td>
+      <td align="center"><img src="https://github.com/CordeiroGente/Imagens/blob/main/Bust%20icon.png?raw=true" width="100px;" alt="Foto do Psicólogo"><br /><b>[Perrenchelle C.H. Pedro]</b><br /><i>Psicólogo(a) Consultor(a)</i></td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE.md) - veja o arquivo LICENSE.md para detalhes.
-
----
-
 ## 📞 Contato
 
-<div align="center">
-  <a href="ex">
-    <img src="https://github.com/CordeiroGente/Imagens/blob/main/icon%20email.png?raw=true" width="40px;" alt="Email">
-  </a>
-  &nbsp;&nbsp;
-  <a href="ex">
-    <img src="https://via.placeholder.com/40" width="40px;" alt="Website">
-  </a>
-  &nbsp;&nbsp;
-  <a href="ex">
-    <img src="https://via.placeholder.com/40" width="40px;" alt="Instagram">
-  </a>
-</div>
-
-Para mais informações ou parcerias:
-- Email: contato@PisyIA.com.br
-- Website: [www.PisyIA.com.br](https://exemplo.com)
-- Instagram: [@PisyIA](https://exemplo.com)
+- Email: PiscyIA@gmail.com
+- Website: [www.PisyIA.com.br](ex)
+- Instagram: [@PisyIA](ex)
 
 ---
-
-<div align="center">
-  <i>Este é um projeto fictício desenvolvido para fins educacionais.</i>
-</div>

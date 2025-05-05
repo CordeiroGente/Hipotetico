@@ -35,10 +35,6 @@ PisyIA é um projeto inovador que promete utilizar inteligência artificial para
 
 ## 💡 Problema
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Ilustração do Problema" width="600px">
-</div>
-
 * Mais de 70% das pessoas que precisam de ajuda psicológica no Brasil não têm acesso devido a barreiras financeiras
 * Longos tempos de espera para atendimento em serviços públicos
 * Estigma social que impede muitas pessoas de buscarem ajuda

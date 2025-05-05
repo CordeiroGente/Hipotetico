@@ -1,0 +1,25 @@
+De acordo com o arquivo de Sprint Backlog, a numeração se refere aos requistos, esse arquivo será sobre como ocorreu o desenvolvimento
+
+1. A base do código foi feita com sucesso dentro do prazo esperado, porém foi encontrado alguns problemas com o desenvolvimento do banco de dados
+o armazenamento das conversas por um erro de código estava dando override no antigo atrasando em alguns dias a conclusão da tarefa.
+
+2. Após o corrigir o erro anterior, esse item começou 3 dias atrasado porém devido a ser algo mais trabalhoso do que técnico foi possível
+entrar novamente dentro do prazo de entrega
+
+3. A implementação do sistema de urgência psicológica teve seus problemas, a IA estava interpretando apenas desabafos como casos de urgência porém
+após novos parâmetros terem sido adicionados os alarmes falsos pararam e ela estava com consistência acertando os exemplos fornecidos
+
+4. A biblioteca de exercícios foi feita de maneira rápida graças ao acervo de itens fornecidos pelo psicólogo do nosso grupo
+Após o treinamento para a IA sugerir as atividades com base nos padrões finalizamos a Sprint antes do previsto nos dando 4 dias de adiantamento
+
+5. Com o tempo extra o sistema de planos personalizáveis foi desenvolvido após dois dias de descanso aos funcionários, o sistema de notificação foi mais fácil do que o esperado
+Após os testes conseguimos recuperar os 2 dias que ficamos de folga
+
+6. Com o sistema de notificação já feito, foi fácil adicionar notificações customizadas para a gamificação, porém a gamificação se tornou mais difícil do que o esperado
+Devido a ser um sistema novo onde os desenvolvedores tinham pouca experiência foi necessário contratar um desenvolvedor de jogos para a relalização dessa parte
+Depois desse acontecimento a equipe ficou 3 dias atrasada em relação a previsão
+
+7. O sistema de monetização foi controverso, a maior parte do tempo não foi perca trabalhando mas sim discutindo a moralidade dessa decisão, mas no final, todos temos contas a pagar
+
+8. A idea de psicólogos voluntários foi um sucesso, mesmo tendo terminado o projeto com 2 dias de atraso e consequentemente aumentando os custos o aplicativo explodiu no ambiente de psicologia
+Diversos recém formados no primeiro dia já se voluntariaram com o intuito de adquirir experiência profissional. Um psicólogo com Mestrado foi contratado para verificar e selecionar os voluntários

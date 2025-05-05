@@ -76,9 +76,6 @@ PisyIA utiliza algoritmos avançados de processamento de linguagem natural e rec
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="20px">
-  <img src="https://via.placeholder.com/80" alt="TensorFlow" width="80px">
-  <img src="https://via.placeholder.com/80" alt="React Native" width="80px">
-  <img src="https://via.placeholder.com/80" alt="MongoDB" width="80px">
 </div>
 
 ```
@@ -171,15 +168,15 @@ Este projeto está licenciado sob a [MIT License](LICENSE.md) - veja o arquivo L
 ## 📞 Contato
 
 <div align="center">
-  <a href="mailto:contato@PisyIA.com.br">
-    <img src="https://via.placeholder.com/40" width="40px;" alt="Email">
+  <a href="ex">
+    <img src="https://github.com/CordeiroGente/Imagens/blob/main/icon%20email.png?raw=true" width="40px;" alt="Email">
   </a>
   &nbsp;&nbsp;
-  <a href="https://exemplo.com">
+  <a href="ex">
     <img src="https://via.placeholder.com/40" width="40px;" alt="Website">
   </a>
   &nbsp;&nbsp;
-  <a href="https://exemplo.com">
+  <a href="ex">
     <img src="https://via.placeholder.com/40" width="40px;" alt="Instagram">
   </a>
 </div>

@@ -1,0 +1,39 @@
+1. IA adaptável para reconhecimento de problemas oferecendo atividades e incentivando acompanhamento profissional
+-- Prioridade Alta, 8 Sprints
+1ª - 2ª Começar com a base do código
+3ª - 4ª Banco de dados
+5ª Armazenamento de conversas
+6ª - 8ª Atuação da IA de acordo com as conversas
+
+2. Montar um banco de dados estável que salvará tópicos e partes importantes das conversas para adaptação da IA pessoal
+-- Prioridade Média, 5 sprints
+1ª - 3ª Treinamento da AI para salvar as conversas em tópicos e partes importantes para salvar espaço de memória
+4ª - 5ª Testes sobre o funcionamento da IA com o novo padrão de salvamento
+
+3. Implementação de sistema de detecção de urgência psicológica
+-- Prioridade Baixa, 2 sprints
+1ª - 2ª Aprender padrões de conversa de pessoas instáveis, responder de maneira urgente a ameaças de suicídio e danos corporais
+
+4. Desenvolver uma biblioteca de exercícios terapêuticos onde as pessoas podem buscar um guia para conseguir se ajudar sozinhas
+-- Prioridade Media, 3 sprints
+1ª - 2ª Desenvolvimento do banco de atividades com padrões já adicionados
+3ª Treinamento para sugestão das atividades com base nos padrões
+
+5. Desenvolvimento de planos personalizáveis de acordo com a carga horária de cada um, e exercícios baseados nos horários livres
+-- Prioridade Baixa, 2 sprints
+1ª - 2ª Com base em sugestões e acesso ao banco de exercícios, desenvolver sistema modificável para que as pessoas possam customizar sua rotina de acordo com o tempo livre
+
+6. Desenvolver uma interface gamificada para reter a atenção das pessoas com dificuldade, implementamento de sistema de XP
+-- Prioridade Média, 6 sprints
+1ª - 3ª Desenvolver um sistema de notificação para que o usuário siga a rotina personalizada que recompensa o usuário com incentivo de uso limitado de serviços pagos do sistema
+4ª - 6ª Sistema de Experiência onde quanto mais um usuário conseguir manter sua rotina saudável mais influência ele terá na comunidade do aplicativo
+
+7. Sistema de monetização em base de assinaturas mensais e diversos "Tiers" com complementos confortáveis, mas não essenciais
+-- Prioridade Baixa, 4 sprints
+1ª - 2ª Definir a quantia de Tiers e a compatibilidade do sistema com diversas formas de pagamento
+3ª - 4ª Pesquisa com usuários BETA de quais recursos eles gostariam de ver no aplicativo e selecionar as melhores sugestões como pagas
+
+8. Adicionar um local para psicólogos voluntários, como recém formados obterem experiência no trabalho, Semelhante a CVV (Centro de valorização da Vida)
+-- Prioridade Baixa, 2 Sprints
+1ª Desenvolver chat direto entre voluntário paciente com acesso ao banco de dados do paciente ao voluntário
+2ª Criação de Mídias sociais para propaganda do programa oferecendo experiência real para voluntários atraindo principalmente psicólogos recém formados
